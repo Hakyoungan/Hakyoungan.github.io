@@ -21,7 +21,7 @@ user:
   name: Hakyoungan
   pic: /assets/img/1.jpg
   picAlt: "catbook"
-  job: a category-centric theme
+  job: 거북이 코딩
   aboutme: true # comment this out if you don't need the 'about' page.
 
 exclude:
