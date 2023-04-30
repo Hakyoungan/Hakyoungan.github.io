@@ -19,7 +19,7 @@ cusdis:
 
 user:
   name: Hakyoungan
-  pic: /assets/img/cat.jpg
+  pic: /assets/img/1.jpg
   picAlt: "catbook"
   job: a category-centric theme
   aboutme: true # comment this out if you don't need the 'about' page.
